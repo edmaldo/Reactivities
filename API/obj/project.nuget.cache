@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+LwR1WxK0jkZjK3dbbVcD56v+AMDhir00Er6K7nXBCdFKgK+H/Ax109GYf9cKDQoXKCJ8vHw+B3sS+5O42E1sg==",
+  "dgSpecHash": "d3WYhdOXueWYQUMk17rbTpyRB0aFi/rNlSFdX99WjycyP2K8FBOQ3gW2V126Lnqc3r12zN4JZFUSmmvwVdng2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\eduar\\Desktop\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
